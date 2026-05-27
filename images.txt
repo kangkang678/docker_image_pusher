@@ -1,1 +1,1 @@
-trycua/cua-qemu-android:latest
+trycua/cua-xfce:latest
